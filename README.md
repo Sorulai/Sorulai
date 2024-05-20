@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>Yulia Zaxarova</h1>
-<h3>Python Developer from Moscow</h3>
+<h3>Python Developer</h3>
 </div>
 
 ### Technology Stack:
@@ -21,7 +21,9 @@
 ![Static Badge](https://img.shields.io/badge/rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&logoSize=70)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=70)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sorulai&theme=apprentice)
 
+<img width="400px" align="center" alt="Yulia" src="https://www.codewars.com/users/Sorulai/badges/large" />
 
 
 
